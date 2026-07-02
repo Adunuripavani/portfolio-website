@@ -1,4 +1,4 @@
-PAVANI\n
+PAVANI
 AIML STUDENT
 ABOUT ME
 I am student intrested in Artificial Intelligence,Machine Learning,Cloud Computing and Web Development.
